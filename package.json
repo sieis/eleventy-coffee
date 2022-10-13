@@ -1,0 +1,23 @@
+{
+  "name": "eleventy-coffee",
+  "version": "1.0.0",
+  "description": "sample coffee shop using eleventy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sieis/eleventy-coffee.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sieis/eleventy-coffee/issues"
+  },
+  "homepage": "https://github.com/sieis/eleventy-coffee#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
